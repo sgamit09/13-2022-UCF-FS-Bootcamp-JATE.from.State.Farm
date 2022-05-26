@@ -58,7 +58,7 @@ If you have questions or you want to share comments, we will be glad to hear fro
 - Geico Gecko 🦎
 - Mayhem 💥
 - Jake from State Farm ❤️
-- rini0404 👽
-- Jdiaz240 💪
-- schaparro08 💅
-- Phillip48 ⚡️
+- Rene Ortega - https://github.com/rini0404 👽
+- Joshua Diaz - https://github.com/Jdiaz240 💪
+- Stephanie Chaparro-Roldan - https://github.com/schaparro08 💅
+- Phillip Pereira - https://github.com/Phillip48 ⚡️
