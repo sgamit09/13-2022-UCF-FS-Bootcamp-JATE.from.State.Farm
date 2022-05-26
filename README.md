@@ -2,7 +2,7 @@
 
 Who are you talking to? It's J.A.T.E (Just Another Text Editor) from State Farm. What are you wearing JATE from State Farm? uhhh Webpack. 
 
-## Table of contents 📖
+## Table of contents
 
   - [Table of contents](#table-of-contents)
   - [Installation](#installation)
@@ -12,7 +12,7 @@ Who are you talking to? It's J.A.T.E (Just Another Text Editor) from State Farm.
   - [Collaborators](#collaborators)
 
 
-## Installation 🛠️
+## Installation
 
 Click on the Heroku link listed below & click the install button. So easy a caveman can do it.
 
@@ -42,13 +42,13 @@ This program combines our knowledge of webpack and PWA to create a text editor a
 ![image](https://user-images.githubusercontent.com/98362675/170560221-bba4d976-4ee4-449e-8bf3-d28704748981.png)
 
 
-## Contributing 🙋
+## Contributing 
 
 - Pull requests are welcome.
 - For major changes, please open an issue first to discuss what you would like to change.
 - Please make sure to update tests as appropriate.
 
-## Questions ❓
+## Questions
 
 If you have questions or you want to share comments, we will be glad to hear from you.
 
