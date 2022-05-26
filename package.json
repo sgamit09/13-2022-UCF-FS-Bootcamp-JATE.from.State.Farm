@@ -23,6 +23,7 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "install": "^0.13.0",
     "nodemon": "^2.0.16",
     "npm": "^8.11.0",
