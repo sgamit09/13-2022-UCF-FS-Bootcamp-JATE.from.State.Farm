@@ -4,7 +4,7 @@ Who are you talking to? It's J.A.T.E (Just Another Text Editor) from State Farm.
 
 ## Table of contents
 
-  - [Table of contents](#table-of-contents)
+  - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
