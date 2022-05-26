@@ -2,7 +2,7 @@
 
 Who are you talking to? It's J.A.T.E (Just Another Text Editor) from State Farm. What are you wearing JATE from State Farm? uhhh Webpack. 
 
-## Table of contents
+## Table of Contents
 
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
