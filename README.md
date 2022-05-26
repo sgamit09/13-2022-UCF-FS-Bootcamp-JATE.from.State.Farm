@@ -58,3 +58,7 @@ If you have questions or you want to share comments, we will be glad to hear fro
 - Geico Gecko 🦎
 - Mayhem 💥
 - Jake from State Farm ❤️
+- rini0404 👽
+- Jdiaz240 💪
+- schaparro08 💅
+- Phillip48 ⚡️
