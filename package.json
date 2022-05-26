@@ -1,6 +1,9 @@
 {
   "name": "j.a.t.e",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.14.2"
+  },
   "description": "",
   "main": "server.js",
   "scripts": {
@@ -16,7 +19,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "webpack": "^5.72.1"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
