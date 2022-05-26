@@ -1,72 +1,60 @@
-# JATE from State Farm
+# JATE from State Farm ❤️
 
-## Table of Contents 📚
+Who are you talking to? It's J.A.T.E (Just Another Text Editor) from State Farm. What are you wearing JATE from State Farm? uhhh Webpack. 
 
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Licenses](#licenses)
-* [Testing](#testing)
-* [Contribution](#contribution)
-* [Questions](#questions)
-* [GitHub](#gitHub)
-* [Contributors](#contributors)
+## Table of contents 📖
 
-# Description 📖
-
-Team Building Generator that uses Node.js and terminal prompts.
-
-# Installation 🧰
-
-## Softwares Needed 🔍
-
-* Google Chrome or Web Browser
-* Node.js'
-* VS Code
-* npm modules: npm install, npm i inquirer
-
-# Usage 👨🏻‍💻
-
-The program uses the integrated terminal on VS Code to give the user prompts/questions regarding team member information based on roles.
-The program then takes the answers and inputs them into template literal cards of HTML. Lastly, the cards of HTML are written into a "index.html"
-using fs.AppendFile() generating the team page. 
-
-![image](https://user-images.githubusercontent.com/98362675/165347204-afa98efc-a9c1-4d80-88b0-6a8c07dc1ff7.png)
+  - [Table of contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Questions](#questions)
+  - [Collaborators](#collaborators)
 
 
-Video Walkthrough = https://drive.google.com/file/d/1kNqdQsHjtaJkG2tXHS-1ds2lonxH-vnr/view
+## Installation 🛠️
 
-# License
+Click on the Heroku link listed below & click the install button. So easy a caveman can do it.
 
-          No License
+https://jate-on-jate2.herokuapp.com/
+
+## Usage
+
+**User Story**
+
+```md
+AS A developer
+I WANT to create notes or code snippets with or without an internet connection
+SO THAT I can reliably retrieve them for later use
+Read Coding, Real Savings
+```
+
+This program combines our knowledge of webpack and PWA to create a text editor app called JATE that can be installed on our computers and used offline. How happy am I that this program is working and deployed, happier than a camel on hump day.  
+
+**Screenshots of Application:**
+
+![image](https://user-images.githubusercontent.com/98362675/170559938-1c35d4fe-a326-4f42-9b82-e2a10cc0530f.png)
+
+![image](https://user-images.githubusercontent.com/98362675/170560041-d807900f-7c9b-46c1-995d-20e4c01e90b0.png)
+
+![image](https://user-images.githubusercontent.com/98362675/170560121-2b5c56b0-bdda-4142-ab65-710e73b362a1.png)
+
+![image](https://user-images.githubusercontent.com/98362675/170560221-bba4d976-4ee4-449e-8bf3-d28704748981.png)
 
 
-# Testing 🧮
+## Contributing 🙋
 
-1. Fork Code  
-2. Copy Code onto Local
-3. Install any npm modules 
-4. Run Code in terminal
-5. Profit
+- Pull requests are welcome.
+- For major changes, please open an issue first to discuss what you would like to change.
+- Please make sure to update tests as appropriate.
 
-# Contribution 👨‍💻
+## Questions ❓
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. 
-You can also simply open an issue with the tag enhancement. Don't forget to give the project a star! 
-Thanks again!
+If you have questions or you want to share comments, we will be glad to hear from you.
 
-# Questions 🔮
+## Collaborators
 
-* Scott Gamit 🤴 -  scott.gamit.09@outlook.com 📧 
-
-# GitHub 💼
-
-* sgamit09 🤴  - https://github.com/sgamit09 🔗
-
-# Contributors ⚔️
-
-* Ned 👍
-* Spider-Man 🦸🏻‍♂️
-* Green-Goblin 💀
-* Doc-Ock 🐙
-* Multiverse Me 🙃
+- Scott Gamit 😎 - https://github.com/sgamit09
+- Geico Gecko 🦎
+- Mayhem 💥
+- Jake from State Farm ❤️
