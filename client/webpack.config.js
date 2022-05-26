@@ -30,15 +30,15 @@ module.exports = () => {
     
           // Creates a manifest.json file.
           new WebpackPwaManifest({
-            fingerprints: false,
-            inject: true,
             name: 'JATE from State Farm',
             short_name: 'JATE',
             description: 'Just Another Text Editor from State Farm',
             background_color: '#225ca3',
             theme_color: '#225ca3',
-            start_url: './',
-            publicPath: './',
+            start_url: '/',
+            publicPath: '/',
+            fingerprints: false,
+            inject: true,
             icons: [
               {
                 src: path.resolve('src/images/logo.png'),
